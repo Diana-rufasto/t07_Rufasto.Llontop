@@ -29,3 +29,14 @@ while(puntaje_invalido):
     puntaje_invalido=(puntaje<90.00 or puntaje>300.00)
 #fin_while
 print("Puntaje alcanzado:",puntaje)
+
+
+#Ejercicio04
+#Pedir ponderado de un alumno para ver si ocupa el tercio superior
+ponderado=9.6
+ponderado_no_valido=(ponderado<15.00 or ponderado>20.00)
+while(ponderado_no_valido):
+    ponderado=float(input("Ingrese ponderado:"))
+    ponderado_no_valido=(ponderado<15.00 or ponderado>20.00)
+#fin_while
+print("Ponderado valido:",ponderado)
