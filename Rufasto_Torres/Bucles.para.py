@@ -28,3 +28,13 @@ while(i<=max):
     #fin_si
 #fin_while
 print("Termina programa")
+
+
+#Ejercicio04
+#Mostrar los multiplos de 3 que hay desde el 3 hasta el 30
+n=3
+while(n<=30):
+    print(n)
+    n+=3
+#fin_while
+
