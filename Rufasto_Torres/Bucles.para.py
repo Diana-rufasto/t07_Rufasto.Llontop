@@ -38,3 +38,11 @@ while(n<=30):
     n+=3
 #fin_while
 
+
+#Ejercicio05
+#Mostrar la serie
+n=0
+while(n<=60):
+    print(n)
+    n+=1
+#fin_while
