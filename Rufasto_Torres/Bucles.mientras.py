@@ -19,3 +19,13 @@ while(nota_desaprobada):
 #fin_while
 print("Nota aprobada:",nota)
 
+
+#Ejercicio03
+#Pedir puntaje minimo para ingresar a la UNPRG
+puntaje=12.20
+puntaje_invalido=(puntaje<90.00 or puntaje>300.00)
+while(puntaje_invalido):
+    puntaje=float(input("Ingrese puntaje:"))
+    puntaje_invalido=(puntaje<90.00 or puntaje>300.00)
+#fin_while
+print("Puntaje alcanzado:",puntaje)
