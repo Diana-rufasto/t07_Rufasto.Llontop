@@ -40,3 +40,15 @@ while(ponderado_no_valido):
     ponderado_no_valido=(ponderado<15.00 or ponderado>20.00)
 #fin_while
 print("Ponderado valido:",ponderado)
+
+
+#Ejercicio05
+#Pedir temperatura de una persona
+temperatura=23.0
+temperatura_alta=(temperatura<35.0 or temperatura>38.0)
+while(temperatura_alta):
+    temperatura=float(input("Ingrese temperatura:"))
+    temperatura_alta=(temperatura<35.0 or temperatura>38.0)
+#fin_while
+print("Temperatura normal:",temperatura)
+
