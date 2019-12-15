@@ -16,3 +16,15 @@ while(n<=50):
     s=s+n
 #fin_while
 print("Suma:",s)
+
+
+#Ejercicio03
+i=0
+max=80
+while(i<=max):
+    i+=1
+    if((i%2)==0):
+        print(i)
+    #fin_si
+#fin_while
+print("Termina programa")
