@@ -9,5 +9,12 @@ for n in range (103):
 print("serie:",n)
 
 
-
+#Ejercicio02
+s=0
+for i in range (60):
+    if((i % 2 )==0):
+        s=s+i
+    #fin_if
+#fin_for
+print("Suma:",s)
 
