@@ -18,3 +18,13 @@ for i in range (60):
 #fin_for
 print("Suma:",s)
 
+
+#Ejercicio03
+i=0
+for i in range(80):
+    if((i%2)==0):
+        i+=2
+        print(i)
+    #fin_if
+#fin_for
+print("Termina programa")
