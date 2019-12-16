@@ -41,3 +41,18 @@ for letra in msg:
     if(letra=="D"):
         print("yo no fui")
 #fin_for
+
+
+#Ejercicio04
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="U"):
+        print("aprobaste")
+    if(letra=="E"):
+        print("sigue asi")
+    if(letra=="I"):
+        print("esfuerzate")
+    if(letra=="O"):
+        print("estudia mas")
+#fin_for

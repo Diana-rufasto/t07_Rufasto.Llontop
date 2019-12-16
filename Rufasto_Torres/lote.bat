@@ -15,3 +15,9 @@ A= lo siento
 B= disculpa
 C= perdon
 D= yo no fui
+
+Python Rufasto_Torres/Bucles.iteracion.py
+U= aprobaste
+E= sigue asi
+I= esfuerzate
+O= estudia mas
