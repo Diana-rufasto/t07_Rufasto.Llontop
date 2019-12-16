@@ -9,3 +9,9 @@ W= te amo
 X= te quiero
 Y= te adoro
 Z= te estimo
+
+Python Rufasto_Torres/Bucles.iteracion.py
+A= lo siento
+B= disculpa
+C= perdon
+D= yo no fui

@@ -26,3 +26,18 @@ for letra in msg:
     if(letra=="Z"):
         print("te estimo")
 #fin_for
+
+
+#Ejercicio03
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="A"):
+        print("lo siento")
+    if(letra=="B"):
+        print("disculpa")
+    if(letra=="C"):
+        print("perdon")
+    if(letra=="D"):
+        print("yo no fui")
+#fin_for
