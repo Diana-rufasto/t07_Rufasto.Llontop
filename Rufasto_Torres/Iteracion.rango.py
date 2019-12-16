@@ -28,3 +28,13 @@ for i in range(80):
     #fin_if
 #fin_for
 print("Termina programa")
+
+
+#Ejercicio04
+n=0
+for n in range(30):
+    if((n<=30)):
+        n+=1
+        print(n)
+    #fin_if
+#fin_for
