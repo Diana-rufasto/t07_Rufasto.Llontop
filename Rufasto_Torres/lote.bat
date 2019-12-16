@@ -21,3 +21,9 @@ U= aprobaste
 E= sigue asi
 I= esfuerzate
 O= estudia mas
+
+Python Rufasto_Torres/Bucles.iteracion.py
+1= ganaste una canasta navidena
+2= ganaste un vale de 100 soles para sodimac
+3= ganaste una licuadora
+4=ganaste un televisor de 55 pulgadas

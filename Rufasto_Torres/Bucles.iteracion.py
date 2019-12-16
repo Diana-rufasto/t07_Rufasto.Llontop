@@ -56,3 +56,18 @@ for letra in msg:
     if(letra=="O"):
         print("estudia mas")
 #fin_for
+
+
+#Ejercicio05
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="1"):
+        print("ganaste una canasta navidena")
+    if(letra=="2"):
+        print("ganaste un vale de 100 soles para sodimac")
+    if(letra=="3"):
+        print("ganaste una licuadora")
+    if(letra=="4"):
+        print("ganaste un televisor de 55 pulgadas")
+#fin_for
