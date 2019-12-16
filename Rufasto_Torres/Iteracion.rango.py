@@ -38,3 +38,14 @@ for n in range(30):
         print(n)
     #fin_if
 #fin_for
+
+
+#Ejercicio05
+n=0
+for n in range(100):
+    if((n%10)==0):
+        n+=10
+        print(n)
+    #fin_if
+#fin_for
+print("numeros de 10 en 10")
