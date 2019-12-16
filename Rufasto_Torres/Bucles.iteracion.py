@@ -11,3 +11,18 @@ for letra in msg:
     if(letra=="/"):
         print("donde estas")
 #fin_for
+
+
+#Ejercicio02
+import os
+msg=os.sys.argv[1]
+for letra in msg:
+    if(letra=="W"):
+        print("te amo")
+    if(letra=="X"):
+        print("te quiero")
+    if(letra=="Y"):
+        print("te adoro")
+    if(letra=="Z"):
+        print("te estimo")
+#fin_for
